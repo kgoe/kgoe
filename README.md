@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node.js
-- 🤔 I’m looking to help and collaborate on Node.js
+- 🌱 I’m currently learning : AWS, Node.js, PHP
+- 🤔 I’m looking to help and collaborate on : Node.js
 
 <!--
 **kgoe/kgoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
